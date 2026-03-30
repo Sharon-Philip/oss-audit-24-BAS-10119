@@ -19,7 +19,7 @@ Script 1 – System Identity Report
 Displays system information like kernel version, user, uptime, and OS details.
 
 Script 2 – FOSS Package Inspector
-Checks if LibreOffice is installed and shows its version and details.
+Checks if Linux is installed and shows its version and details.
 
 Script 3 – Disk and Permission Auditor
 Analyzes system directories and shows size and permissions.
