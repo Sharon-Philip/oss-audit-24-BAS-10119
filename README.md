@@ -8,10 +8,10 @@ Name: Sharon Philip
 Registration Number: 24BAS 10119
 Course: Open Source Software
 Chosen Software
-LibreOffice
+Linux kernel
 
 Project Description
-This project analyzes LibreOffice as an open-source software, focusing on its origin, license, ethical considerations, Linux implementation, and ecosystem.
+This project analyzes Linux kernel as an open-source software, focusing on its origin, license, ethical considerations, Linux implementation, and ecosystem.
 
 Scripts Overview
 
